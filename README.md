@@ -5,7 +5,7 @@
 
 - 🌱 i’m currently learning **node.js**
 
-- 👨‍💻 all of my projects are available at [judylearnscode.cargo.site](judylearnscode.cargo.site)
+- 👨‍💻 all of my projects are available <a href="https://judylearnscode.cargo.site">here</a>
 
 - 💬 ask me about **html and css**
 
