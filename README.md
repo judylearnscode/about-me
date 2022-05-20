@@ -1,7 +1,7 @@
 ![Yellow Brown Minimal Motivational Quote LinkedIn Banner](https://user-images.githubusercontent.com/66283743/169446023-66730fd8-c884-4218-b841-c16ff8cb34cc.png)
 
 <h1 align="center">hi, i'm judy! 👋</h1>
-<h3 align="center">a full-stack software engineer @ resilient coders</h3>
+<h3 align="center">full-stack software engineer @ resilient coders</h3>
 
 - 🌱 i’m currently learning **node.js**
 
