@@ -3,7 +3,7 @@
 <h1 align="center">hi, i'm judy! 👋</h1>
 <h3 align="center">full-stack software engineer @ resilient coders</h3>
 
-- 🌱 i’m currently learning **node.js**
+- 🌱 i’m currently learning **node.js and mongodb** 
 
 - 👨‍💻 all of my projects are available <a href="https://judylearnscode.cargo.site">here</a>
 
