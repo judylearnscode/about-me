@@ -3,15 +3,15 @@
 <h1 align="center">hi, i'm judy! 👋</h1>
 <h3 align="center">full-stack software engineer @ resilient coders</h3>
 
-- ♥ i’m currently learning **node.js and mongodb** 
+- 🌱 i’m currently learning **node.js and mongodb** 
 
-- ♡ all of my projects are available <a href="https://judylearnscode.com">here</a>
+- 🏔️ all of my projects are available <a href="https://judylearnscode.com">here</a>
 
-- ♥ ask me about **html and css**
+- ♡ ask me about **html and css**
 
-- ♡ how to reach me **judyjchong@gmail.com**
+- 💌 how to reach me **judyjchong@gmail.com**
 
-- ♥ fun fact **i love mangoes**
+- 🥭 fun fact **i love mangoes**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
