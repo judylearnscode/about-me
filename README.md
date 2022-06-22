@@ -1,17 +1,17 @@
-![White Black Minimalist Art Director Email Signature (1000 × 396 px) (6)](https://user-images.githubusercontent.com/66283743/172890569-b2fb8245-e9d9-4748-a7f9-a5e895c7ee24.png)
+![White Black Minimalist Art Director Email Signature (1000 × 396 px) (11)](https://user-images.githubusercontent.com/66283743/175075052-832662d3-11df-46ed-a0ad-afdefc720632.png)
 
 <h1 align="center">hi, i'm judy! 👋</h1>
 <h3 align="center">full-stack software engineer @ resilient coders</h3>
 
-- 🌱 i’m currently learning **node.js and mongodb** 
+- ♥ i’m currently learning **node.js and mongodb** 
 
-- 👨‍💻 all of my projects are available <a href="https://judylearnscode.com">here</a>
+- ♡ all of my projects are available <a href="https://judylearnscode.com">here</a>
 
-- 💬 ask me about **html and css**
+- ♥ ask me about **html and css**
 
-- 📫 how to reach me **judyjchong@gmail.com**
+- ♡ how to reach me **judyjchong@gmail.com**
 
-- ⚡ fun fact **i love mangoes**
+- ♥ fun fact **i love mangoes**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
