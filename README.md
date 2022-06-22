@@ -1,4 +1,4 @@
-![White Black Minimalist Art Director Email Signature (1000 × 396 px) (11)](https://user-images.githubusercontent.com/66283743/175075052-832662d3-11df-46ed-a0ad-afdefc720632.png)
+![White Black Minimalist Art Director Email Signature (1000 × 396 px) (10)](https://user-images.githubusercontent.com/66283743/175097970-8ef33a77-00dd-4fec-893e-ec6f395c7124.png)
 
 <h1 align="center">hi, i'm judy! 👋</h1>
 <h3 align="center">full-stack software engineer @ resilient coders</h3>
